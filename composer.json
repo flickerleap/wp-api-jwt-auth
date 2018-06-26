@@ -1,5 +1,5 @@
 {
-    "name": "flicker/wp-api-jwt-auth",
+    "name": "flickerleap/wp-api-jwt-auth",
     "version": "1.2.4",
     "description": "A fork of Tmeister/wp-api-jwt-auth",
     "type": "library",
